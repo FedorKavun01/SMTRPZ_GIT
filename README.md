@@ -1,0 +1,1 @@
+SMTRPZ_GIT
