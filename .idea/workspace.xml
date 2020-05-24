@@ -10,10 +10,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Xa1jhEL4p0f4ta5TJhmm51AmEj" />
   <component name="ProjectViewState">
@@ -40,6 +43,9 @@
       <recent name="Lab2" />
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab7" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -47,20 +53,26 @@
       <recent name="D:\omax1\Coding\SMTRPZ\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Lab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Lab1" />
-      <module name="SMTRPZ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab3.Main" />
       <module name="SMTRPZ" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab7.Program" />
+      <module name="SMTRPZ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.PersonTest" />
         <item itemvalue="JUnit.PersonTest.testEquals" />
         <item itemvalue="JUnit.Lab1Test.getStrWUniqSymbols" />
-        <item itemvalue="Application.Lab1" />
       </list>
     </recent_temporary>
   </component>
@@ -149,26 +161,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582530650096" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1585768106097">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1590155225655">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585501436685" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585768106097" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1585768106096">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590155225655" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1590155225655">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585501436684" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585768106096" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1585768106096">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590155225655" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1590155225654">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585501436684" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585768106096" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1585768106096">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590155225654" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1590155225655">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585501436685" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585768106096" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590155225655" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1585768106097">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -189,11 +201,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581895159356" />
-    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1585823473271">
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1590328425481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2501" y="299" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585735707971" />
-    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585823473271" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590328425481" />
     <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581895117458">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -206,14 +218,9 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2181" y="42" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585501435409" />
-    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581318494002" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1585750339390">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585750339390" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581319560779">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581319560779" />
   </component>
 </project>
