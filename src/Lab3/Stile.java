@@ -15,6 +15,7 @@ public class Stile {
             }
         } else {
             System.err.println("Ваша карта не существует или заблокирована");
+            TicketControl.fail(ticket);
         }
     }
 }
